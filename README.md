@@ -57,6 +57,7 @@ yarn start
 ***
 ### Blog :
 
+https://zenn.dev/knaka0209/articles/bd747d4d8e7d3a
 
 ***
 
